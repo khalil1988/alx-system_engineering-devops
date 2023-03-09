@@ -1,1 +1,1 @@
-hwo to define the current path
+this is to for first shell_basics task
